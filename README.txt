@@ -10,11 +10,11 @@ VERSION:				Python3.7
 
 PACKAGES USED:				Tensorflow, NumPy, MatplotLib, Keras, Sklearn.
 
-FILES INCLUDED:				Q1.py, Plot_results.py, model.json, model.h5, Report.pdf.
+FILES INCLUDED:				Model.py, Plot_results.py, model.json, model.h5, Report.pdf.
 
 EXECUTION:				1. python filename.py in terminal for Linux.
 					2. Open the filename.py in PyCharm and run for Windows.
-					3. Run Q1.py first followed by Plot_results.py.
+					3. Run Model.py first followed by Plot_results.py.
 			
 REFERENCES:				1) https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c
 					2) https://medium.com/@udolf15/building-a-image-classifier-using-cnn-with-cifar-10-dataset-5682afa4f51
